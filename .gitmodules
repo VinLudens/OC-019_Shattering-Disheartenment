@@ -1,9 +1,0 @@
-[submodule "openlilylib/https:/github.com/openlilylib/snippets"]
-	path = openlilylib/https:/github.com/openlilylib/snippets
-	url = https://github.com/openlilylib/oll-core
-[submodule "openlilylib/oll-core"]
-	path = openlilylib/oll-core
-	url = https://github.com/openlilylib/oll-core
-[submodule "openlilylib/snippets"]
-	path = openlilylib/snippets
-	url = https://github.com/openlilylib/snippets
