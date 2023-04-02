@@ -1,10 +1,6 @@
 # About
 
-Lilypond source code for XXX.
-
-TODO:
-- Update the `MAIN_FILE` repository variable
-- Update the `LILYPOND_VERSION` repository variable if needed
+Lilypond source code for my 19th Original Composition (OC)!
 
 # Recording
 
